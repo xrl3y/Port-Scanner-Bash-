@@ -55,3 +55,8 @@ To scan the first 1000 ports on a target IP with an aggressive scan, use:
 
 Disclaimer
 This tool is intended for educational purposes only. Always obtain permission before scanning networks or systems that are not your own.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+Author: xrl3y
